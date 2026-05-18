@@ -1,5 +1,5 @@
 #include <stdio.h>
- //hellou//kkkkkkk
+ //hellou
 int main() {
     int a = 10;
     int b = 3;
